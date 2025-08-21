@@ -11,6 +11,7 @@ Repositório desenvolvido para fins didáticos, com a disponibilização de mate
 
 ## Objetivo
 Construir seu Primeiro Portfólio Front-end do Zero.
+Portfolio: https://viiihfelix.github.io/dio-lab-portfolio/
 
 ## Tecnologias
 [![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)]()

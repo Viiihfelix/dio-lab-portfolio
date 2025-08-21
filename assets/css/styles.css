@@ -298,6 +298,7 @@ main {
   aspect-ratio: 1/1;
   border: 1px solid var(--secondary-border-color);
   border-radius: 50rem;
+  background: var(--primary-color);
 }
 
 .technologies__logo {
@@ -396,7 +397,7 @@ main {
 }
 
 .about__photo {
-  width: 100%;
+  width: 90%;
   object-fit: cover;
   object-position: center;
   pointer-events: none;
